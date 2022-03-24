@@ -1,3 +1,8 @@
+### blog-training-react
+
+[Application link](https://blog-training-react.vercel.app/login)
+____________________________________________
+
 ### What was involved in developing the app:
 
 - React Hook
